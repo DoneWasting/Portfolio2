@@ -143,7 +143,7 @@ header {
 
 main {
   padding: 4rem;
-  min-height: calc(98vh); }
+  min-height: calc(100vh - 60px); }
   main .icons {
     margin-top: 1rem; }
     main .icons a {
@@ -206,7 +206,6 @@ main {
     .boxes div:hover {
       padding: 0.5rem 1.5rem;
       background: #eece1a;
-      border-radius: 30%;
       color: #000; }
       .boxes div:hover span {
         color: #000; }
